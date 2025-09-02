@@ -33,3 +33,8 @@ build/
 
 # Ignore Python compiled files
 *.pyc
+
+
+drugs detection.v2i.yolov11/
+runs/
+yolo11s.pt
