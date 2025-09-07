@@ -1,0 +1,47 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+
+# Model files
+*.pth
+
+# Dataset and media
+media/
+
+# IDE and editor files
+*.sublime-workspace
+*.sublime-project
+*.vscode/
+*.idea/
+
+# macOS system files
+.DS_Store
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Temporary files
+*.log
+*.tmp
+
+# Ignore Python compiled files
+*.pyc
+
+
+drugs detection.v2i.yolov11/
+runs/
+yolo11s.pt
+
+inference_results/
+*.jpg
+*.png
+
+
+drugs detection.v2i.yolov11.zip

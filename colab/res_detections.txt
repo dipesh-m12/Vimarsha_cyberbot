@@ -1,0 +1,10 @@
+DETECTION RESULTS for test.jpg
+==================================================
+Total detections: 1
+
+Detection 1:
+  Substance: Marijuana
+  Confidence: 82.65%
+  Location: (310, 202) to (517, 416)
+  Box size: 207 x 214 pixels
+
